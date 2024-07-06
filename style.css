@@ -1,0 +1,12 @@
+#logo_title {
+    color: rgb(255, 255, 255);
+    font-family: "Racing Sans One", "sans-serif";
+    font-weight: 400;
+}
+
+body {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center 0px;
+    background-image: url(imgs/Fundo_Haikyuu.png)
+}
